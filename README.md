@@ -1,2 +1,7 @@
 # Polyer.A.exe
-MY NEW MALWARE ONLY WORKS IN WINDOWS XP 32X NOT 64X
+this is my new malware
+
+this malware is disguised as a virus.
+this is a very dangerous virus for non-safety. only use a VM.
+
+Credits to: Trisodium and N17Pro3426 for bytebeats
